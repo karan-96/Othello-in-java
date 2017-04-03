@@ -140,25 +140,7 @@ boolean flag=false;
 	}
 
 
-	/*public boolean isempty() {
-
-		 
-		 
-		 for(int i=0;i<4;i++)
-		 {
-			 for(int j=0;j<4;j++)
-			 {
-			 if(board[i][j]=='x')
-			 {
-				return true;
-			 }
-			 }
-		 }
-		 
-		return false;
-
-		
-	}*/
+	
 	public  void count(Player P1,Player P2)
 	{
 		
