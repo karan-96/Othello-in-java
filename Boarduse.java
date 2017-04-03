@@ -119,31 +119,7 @@ int countP1=0; int countP2=0;
 	
 		return ssymbol;
 	}
-	/*public static Pair count(char fsymbol,char ssymbol,Board b)
-	{
-		
-		Pair P=new Pair();
-		
-		for(int i=0;i<4;i++)
-		{
-			for(int j=0;j<4;j++)
-			{
-				if(b.board[i][j]==fsymbol);
-				{
-					P.x+=1;
-				}
-				 if(b.board[i][j]==ssymbol);
-				{
-					P.y+=1;
-				}
-				
-				
-			}
-			
-		}
-		return P;
-
-	}*/
+	
 	
 
 	public static void main(String[] args) {
